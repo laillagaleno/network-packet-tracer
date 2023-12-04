@@ -9,7 +9,9 @@ Nele você irá praticar:
 4. Como conectar um roteadore e configurar os endereços IP;
 5. Como configurar uma conexão DHCP e DNS;
 6. Como configurar um Wifi com senha;
+
 ...
+
 E muito mais!
 
 [Link do Wiki](https://github.com/laillagaleno/network-packet-tracer/wiki)
